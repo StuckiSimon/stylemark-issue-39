@@ -2,7 +2,7 @@
 name: Sample
 ---
 
-Sample component.
+Sample component. The Paragraph should be red and have a font-size of 30px.
 
 ```sample.html
 <p>Hello, world</p>
