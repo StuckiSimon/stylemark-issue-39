@@ -6,6 +6,7 @@ npm run stylemark
 
 # go to the out directory and create a *new* Git repo
 cd docs
+touch .nojekyll
 git init
 
 # The first and only commit to this new Git repo contains all the
