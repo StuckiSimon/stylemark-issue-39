@@ -1,5 +1,7 @@
 # Reproduce Stylemark Issue #39
 
+## The issue is resolved in Stylemark 3.0.1
+
 [https://github.com/nextbigsoundinc/stylemark/issues/39](https://github.com/nextbigsoundinc/stylemark/issues/39)
 
 ## Demo:
